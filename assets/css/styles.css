@@ -1,0 +1,22 @@
+header {
+    background-color: #2e2caa;
+    color: #fcf8ec;
+}
+
+li.list-group-item:hover {
+    cursor: pointer;
+    background-color:#2e2caa;
+}
+
+li.list-group-item:active {
+    background-color:antiquewhite;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p.current-uv {
+    color: white;
+    width: 120px;
+}
