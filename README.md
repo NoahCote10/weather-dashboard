@@ -13,7 +13,7 @@
 ## Description <a name="description"></a>
 The purpose of this project was to create an app that populates the five-day forecast when a city is entered. It aslo saves the searches for easy access in future searching. This project  makes use of third party API calls via the OpenWeatherAPI, and also ustilizes local storage to save searches. This project was completed with some assistance of another classmate.
 ## Installation <a name="installation"></a>
-To install simply clone this repo and run node index.js in an integrated terminal.
+To install simply clone this repo and run node index.js in an integrated terminal. Alternatively, you can access the deployed app [here](https://noahcote10.github.io/weather-dashboard/).
  
 ## Usage <a name="usage"></a>
 This project may be used to check the weather forecast for the next five days.
